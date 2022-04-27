@@ -1,0 +1,28 @@
+.cardImg{
+    width: 100%;
+    height: 250px;
+    padding-bottom: 3px;
+}
+
+.card{
+    margin-right: 40px;
+    margin-bottom: 30px;
+    padding:  5px 5px;
+    border-radius: 15px;
+    border:1px solid black;
+    width: 250px;
+}
+.wraper{
+    margin-right: 30px;
+    padding-top: 1rem;
+    display: flex;
+    align-items:space-between;
+    flex-wrap: wrap;
+}
+.title{
+    font-size: 24px;
+}
+.description{
+    margin-bottom: 10px;
+    font-size: 16px;
+}

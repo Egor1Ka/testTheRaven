@@ -1,0 +1,11 @@
+.nav{
+    background-color: rgb(196,196,196);
+    height: 5rem;
+    padding-top: 5px;
+}
+
+.wraperNav{
+    display: flex;
+    justify-content: space-between;
+}
+

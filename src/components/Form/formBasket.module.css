@@ -1,0 +1,17 @@
+.myForm{
+    width: 50%;
+    
+}
+
+.formWraper{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 178px;
+    margin: 40px auto;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 14px;
+}
+
+.input{
+    margin-bottom: 10px;
+}

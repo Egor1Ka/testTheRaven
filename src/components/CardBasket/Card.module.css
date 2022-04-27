@@ -1,0 +1,22 @@
+.myCard{
+    display: flex;
+    margin: 10px;
+    width: 50%;
+}
+.cardGroop{
+    width: 50%;
+}
+.cardImg{
+    width: 150px;
+    height: 100%;
+}
+.information{
+    margin-left: 10px;
+}
+.title{
+    margin-bottom: 10px;
+}
+.description{
+    margin-top: 10px;
+    width: 200px;
+}
